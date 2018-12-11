@@ -3,4 +3,5 @@
     <button class="btn btn-info"><a href="" data-target="#modalBal">Cadastrar</a></button>
 
     @include('bybank.modal')
+    @include('bybank.modalDoc')
 </div>

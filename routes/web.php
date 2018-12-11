@@ -20,3 +20,4 @@ Route::get('/one', function () {
 });
 
 Route::post('client/save', 'ClientController@save');
+Route::post('client/savedoc', 'ClientController@saveDocuments');
